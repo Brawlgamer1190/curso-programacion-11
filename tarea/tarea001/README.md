@@ -7,4 +7,6 @@ Nota: durante este README.md se utilizara nombre_programa para hacer referencia 
 
 2.Segundo metodo (metodo corto)
     Para realizar la compilacion a traves de este metodo se necesita tener el archivo abierto en visual estudio code y a continuacion presionar las echas ctrl+shift+B, si se realiza de forma adecuada en la misma ubicacion del programa aparecera un archivo de nombre nombre_programa.exe
+
+Ejecutar
 Por último se tiene que tiene que escribir el comando ./nombre_programa.exe
